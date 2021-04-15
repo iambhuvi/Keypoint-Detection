@@ -1,0 +1,4 @@
+2021-04-15 22:13:28,069 : INFO : utility : Finished logger configuration!
+2021-04-15 22:13:28,069 : INFO : utility : Load config from config.yml
+2021-04-15 22:13:35,575 : INFO : utility : Loading weights from C:/Users/gj3301/Documents/Keypoint Detection/scripts/car-251340.80.h5
+2021-04-15 22:13:39,160 : INFO : utility : Prediction Completed. Writing output to predicted.csv

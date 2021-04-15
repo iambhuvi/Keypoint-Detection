@@ -1,0 +1,10 @@
+2021-04-15 22:36:37,560 : INFO : utility : Finished logger configuration!
+2021-04-15 22:36:37,561 : INFO : utility : Load config from config.yml
+2021-04-15 22:36:37,566 : INFO : utility : ----------------Load the data----------------
+2021-04-15 22:36:37,575 : INFO : utility : Number of selected images are (90,)
+2021-04-15 22:36:37,576 : INFO : utility : Few of the selected images are ['00001.jpg' '00002.jpg' '00003.jpg' '00004.jpg' '00007.jpg']
+2021-04-15 22:36:38,499 : INFO : utility : -------------------------Initiate Model---------------------
+2021-04-15 22:36:47,171 : INFO : utility : --------------------Model Summary---------------------------
+2021-04-15 22:36:47,171 : INFO : utility : <bound method Network.summary of <keras.engine.training.Model object at 0x0000026370E3BB08>>
+2021-04-15 22:42:36,615 : INFO : utility : <keras.callbacks.callbacks.History object at 0x00000263729B8648>
+2021-04-15 22:42:36,615 : INFO : utility : ------------Saving Weights--------------

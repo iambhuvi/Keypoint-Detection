@@ -1,0 +1,17 @@
+common:
+  img_source_path: "C:/Users/gj3301/Documents/Keypoint Detection/data/car_images/Train"
+  labels_csv_path: "C:/Users/gj3301/Documents/Keypoint Detection/data/car_labels.csv"
+  weight_path: "C:/Users/gj3301/Documents/Keypoint Detection/model/car.h5"  val_split: 0.20
+  in_image_width: 224
+  in_image_height: 224
+
+train:
+  epochs: 1
+  batch_size: 1
+  no_of_aug: 10
+
+test:
+  batch_size: 1
+
+predict:
+  folder_path: "C:/Users/gj3301/Documents/Keypoint Detection/data/car_images/Test"
