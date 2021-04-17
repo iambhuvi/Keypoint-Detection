@@ -5,7 +5,7 @@ Detecting Keypoints for windshield and lights for a car image.
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
  
 ## Screenshots
-Include logo/demo screenshot etc.
+<img src="https://github.com/iambhuvi/Keypoint-Detection/blob/master/data/sample_output/keypoint_org_vs_preds.png" alt="sample_output_org_vs_preds">
 
 ## Tech/framework used
 - Tensorflow
